@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lamdb/cicd2023:staging
+          tags: vanhcao3/cicd2024:staging
 
 
   pull-and-up:
